@@ -1,0 +1,2 @@
+tag1: cfget
+  http://ftp.de.debian.org/debian/pool/main/c/cfget/ pregexp:orig.tar.gz file:cfget_0.18.orig.tar.gz new: x:

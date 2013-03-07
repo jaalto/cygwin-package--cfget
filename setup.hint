@@ -1,0 +1,8 @@
+sdesc: "featureful tool to read values from config files"
+ldesc: "An utility to read values from configuration files. For example, it
+can create configurable shellscripts or makefiles. Besides retrieving
+values, it can dump the information in several convenient ways, like a
+set of sh exports commands that can be conveniently passed to eval. It
+can also use the configuration values to expand template files."
+category: Python Utils
+requires: python

@@ -1,0 +1,66 @@
+cfget
+------------------------------------------
+
+featureful tool to read values from config files
+
+An utility to read values from configuration files. For example, it
+can create configurable shellscripts or makefiles. Besides retrieving
+values, it can dump the information in several convenient ways, like a
+set of sh exports commands that can be conveniently passed to eval. It
+can also use the configuration values to expand template files.
+
+Runtime requirements:
+  python
+
+Build requirements:
+  python
+
+Canonical homepage:
+  http://www.enricozini.org/sw/cfget
+  http://packages.debian.org/cfget
+
+Canonical download:
+  See above
+
+Version control repository:
+  http://git.debian.org/?p=users/enrico/cfget.git
+
+Mailing list:
+
+Forum / Wiki:
+
+IRC channel:
+
+Upstream contact:
+  Maintainer: Enrico Zini <enrico@enricozini.org>
+  Bugs: Enrico Zini <enrico@enricozini.org>
+
+License:
+  GPL-2+
+
+Language:
+  C
+
+------------------------------------------
+
+Build instructions:
+  unpack <PKG>-*-src.tar.bz2
+    if you use setup to install this source package, it will be
+    unpacked under /usr/src automatically
+  cd /usr/src
+  ./<PKG>*.sh all
+
+------------------------------------------
+
+Files included in the binary distribution:
+  See content of *.tar.gz
+
+------------------------------------------
+
+Port Notes:
+
+----- version <VER>-<REL> -----
+- Initial release YYYY-MM-DD Firstname Lastname
+
+Cygwin port maintained by: Firstname Lastname <Your email here>
+Copyright (C) YYYY Firstname Lastname; Licensed under GPL v2 or later
