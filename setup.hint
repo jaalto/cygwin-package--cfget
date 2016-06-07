@@ -1,3 +1,4 @@
+# ARCH=noarch
 sdesc: "featureful tool to read values from config files"
 ldesc: "An utility to read values from configuration files. For example, it
 can create configurable shellscripts or makefiles. Besides retrieving
